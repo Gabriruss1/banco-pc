@@ -1,0 +1,17 @@
+# screenshot e artefatti di test
+shot-*.png
+dom.html
+
+# payload di deploy e appunti
+deploy-payload.json
+mailto-link.txt
+email-damiano*.txt
+email-damiano.eml
+
+# build locale standalone (rigenerabile con node bundle.mjs)
+banco-pc.html
+
+# sistema
+.DS_Store
+Thumbs.db
+node_modules/

@@ -1,0 +1,224 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Banco PC — configuratore per PC da gioco</title>
+  <meta name="description" content="Imposta il budget, scegli ogni componente con alternative di prezzo e controlla subito compatibilità, consumi e fps stimati.">
+  <meta name="theme-color" content="#101e28">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23f0501e'/%3E%3Crect x='10' y='10' width='12' height='12' rx='2' fill='%23101e28'/%3E%3C/svg%3E">
+</head>
+<body>
+  <a class="skip" href="#build">Salta al configuratore</a>
+
+  <div class="wrap">
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Banco PC, ricomincia">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 40 40">
+            <rect x="8" y="8" width="24" height="24" rx="3.5" fill="none" stroke="currentColor" stroke-width="3"/>
+            <rect x="15.5" y="15.5" width="9" height="9" rx="1.5" fill="currentColor"/>
+            <path d="M14 2v5M20 2v5M26 2v5M14 33v5M20 33v5M26 33v5M2 14h5M2 20h5M2 26h5M33 14h5M33 20h5M33 26h5"
+                  stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+          </svg>
+        </span>
+        <span class="brand-text">
+          <span class="brand-name">banco<span class="brand-dot">.</span>pc</span>
+          <span class="brand-tag">configuratore per PC da gioco</span>
+        </span>
+      </a>
+      <div class="top-actions">
+        <button class="ghost" id="btnHelp" type="button">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="6.2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M6.3 6.1a1.8 1.8 0 1 1 2.4 1.7c-.5.2-.7.5-.7 1v.4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/><circle cx="8" cy="11.4" r=".9" fill="currentColor"/></svg>
+          Come funziona
+        </button>
+        <button class="ghost" id="btnPrint" type="button">
+          <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4.5 6V2.5h7V6M4.5 11.5h-2v-4a1 1 0 0 1 1-1h9a1 1 0 0 1 1 1v4h-2" fill="none" stroke="currentColor" stroke-width="1.4"/><rect x="4.5" y="9.5" width="7" height="4" fill="none" stroke="currentColor" stroke-width="1.4"/></svg>
+          Stampa
+        </button>
+      </div>
+    </header>
+
+    <section class="budget-deck" aria-labelledby="budgetTitle">
+      <div class="budget-top">
+        <div class="budget-field">
+          <label id="budgetTitle" for="budgetNumber">Il tuo budget</label>
+          <div class="budget-input">
+            <span class="currency">€</span>
+            <input id="budgetNumber" type="number" min="600" max="8000" step="50" inputmode="numeric" value="1500" aria-describedby="budgetHint">
+          </div>
+          <div class="presets" id="presets" role="group" aria-label="Budget rapidi">
+            <button type="button" data-budget="800">800</button>
+            <button type="button" data-budget="1200">1.200</button>
+            <button type="button" data-budget="1600">1.600</button>
+            <button type="button" data-budget="2200">2.200</button>
+            <button type="button" data-budget="3000">3.000</button>
+            <button type="button" data-budget="4000">4.000</button>
+          </div>
+        </div>
+
+        <div class="budget-side">
+          <p>Quanto vuoi spendere in tutto? Il configuratore propone una build completa e ti lascia cambiare ogni pezzo, anche con alternative più economiche o più potenti.</p>
+          <label class="switch">
+            <input type="checkbox" id="includeExtras">
+            <span class="switch-ui" aria-hidden="true"></span>
+            <span>Riserva budget per monitor e accessori</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="caliper" id="caliper">
+        <div class="caliper-ticks" id="caliperTicks" aria-hidden="true"></div>
+        <div class="caliper-track">
+          <div class="caliper-fill" id="caliperFill"></div>
+        </div>
+        <div class="caliper-scale" id="caliperScale" aria-hidden="true"></div>
+        <div class="caliper-needle" id="caliperNeedle" aria-hidden="true">
+          <span class="caliper-total" id="caliperTotal">€0</span>
+        </div>
+        <div class="caliper-foot">
+          <span>Speso finora</span>
+          <span id="caliperBudget">budget €1.500</span>
+        </div>
+      </div>
+
+      <p class="budget-hint" id="budgetHint"></p>
+    </section>
+
+    <div class="workspace">
+      <main class="sheet" id="build">
+        <div class="sheet-head">
+          <div>
+            <h2>Distinta componenti</h2>
+            <p id="sheetCount">0/8 core</p>
+          </div>
+          <button class="link" id="btnReset" type="button">Svuota</button>
+        </div>
+
+        <ol class="slots" id="sheetList"></ol>
+
+        <div class="sheet-foot">
+          <p>Prezzi indicativi, mercato italiano, novembre 2026. Controlla sempre disponibilità e prezzo prima di comprare.</p>
+        </div>
+      </main>
+
+      <aside class="summary" aria-label="Riepilogo della build">
+        <div class="sum-head">
+          <span class="sum-kicker">Totale build</span>
+          <span class="sum-over" id="sumOver">sopra budget</span>
+        </div>
+        <div class="sum-total" id="sumTotal">€0</div>
+        <div class="sum-budget" id="sumBudgetLine">—</div>
+
+        <div class="sum-chart" id="sumChart"></div>
+
+        <div class="sum-stats">
+          <div>
+            <strong id="sumFps">—</strong>
+            <span id="sumFpsLabel">fps stimati</span>
+          </div>
+          <div>
+            <strong id="sumPower">0</strong>
+            <span id="sumPowerLabel">W assorbiti</span>
+          </div>
+          <div>
+            <strong id="sumPsu">—</strong>
+            <span id="sumPsuLabel">alimentatore</span>
+          </div>
+        </div>
+
+        <div class="sum-issues" id="sumIssues" aria-live="polite"></div>
+
+        <div class="sum-actions">
+          <button class="btn btn-primary" id="btnOptimize" type="button">Ottimizza per il budget</button>
+          <div class="sum-secondary">
+            <button class="btn btn-quiet" id="btnCopy" type="button">Copia riepilogo</button>
+            <button class="btn btn-quiet" id="btnShare" type="button">Condividi link</button>
+          </div>
+        </div>
+
+        <p class="sum-note">Fps stimati a qualità alta, senza DLSS o FSR. Sono indicativi: dipendono dal gioco e dai driver.</p>
+      </aside>
+    </div>
+
+    <footer class="footer">
+      <p><b>banco.pc</b> — fatto per scegliere senza farsi male. Nessun account, nessun tracciamento: la build resta nel tuo browser.</p>
+      <p>Prezzi e prestazioni sono stime indipendenti, non affiliate a produttori o rivenditori.</p>
+    </footer>
+  </div>
+
+  <dialog class="picker" id="picker" aria-labelledby="pickerTitle">
+    <div class="picker-head">
+      <div>
+        <h2 id="pickerTitle">Scegli</h2>
+        <p id="pickerSub"></p>
+      </div>
+      <button class="icon-btn" id="pickerClose" type="button" aria-label="Chiudi">
+        <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+
+    <div class="picker-tools">
+      <label class="search">
+        <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.4" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="m10.3 10.3 3.2 3.2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        <input id="pickerSearch" type="search" placeholder="Cerca per nome o caratteristica" autocomplete="off">
+      </label>
+      <select id="pickerSort" aria-label="Ordina le opzioni">
+        <option value="consigliati">Consigliati</option>
+        <option value="price-asc">Prezzo crescente</option>
+        <option value="price-desc">Prezzo decrescente</option>
+        <option value="score">Prestazioni</option>
+      </select>
+      <label class="check">
+        <input type="checkbox" id="pickerOnlyCompatible">
+        <span>Solo compatibili</span>
+      </label>
+      <span class="picker-count" id="pickerCount"></span>
+    </div>
+
+    <ul class="picker-list" id="pickerList"></ul>
+
+    <div class="picker-foot">
+      <button class="btn btn-quiet" id="pickerClear" type="button" hidden>Rimuovi dalla build</button>
+      <p>Prezzi indicativi · novembre 2026</p>
+    </div>
+  </dialog>
+
+  <dialog class="help" id="helpDialog" aria-labelledby="helpTitle">
+    <div class="help-head">
+      <h2 id="helpTitle">Come funziona</h2>
+      <button class="icon-btn" id="btnHelpClose" type="button" aria-label="Chiudi">
+        <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+    <ol class="help-steps">
+      <li>
+        <b>Imposta il budget.</b>
+        <span>Il configuratore genera una build completa che ci sta dentro. Puoi cambiare cifra in qualsiasi momento: il totale si aggiorna subito.</span>
+      </li>
+      <li>
+        <b>Scegli ogni pezzo.</b>
+        <span>Tocca una voce della distinta per vedere tutte le alternative: più economiche, equivalenti o più potenti. Ogni opzione mostra il delta di prezzo e se è compatibile.</span>
+      </li>
+      <li>
+        <b>Controlla il riepilogo.</b>
+        <span>Compatibilità, watt assorbiti e fps stimati si aggiornano a ogni scelta. Quando è tutto verde, copia il riepilogo o condividi il link della build.</span>
+      </li>
+    </ol>
+    <p class="help-note">I prezzi sono stime di mercato, non preventivi. Le prestazioni sono indicative e variano da gioco a gioco.</p>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <noscript>
+    <p class="noscript">Questo configuratore ha bisogno di JavaScript per funzionare. Attivalo nel browser e ricarica la pagina.</p>
+  </noscript>
+
+  <script src="assets/data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
