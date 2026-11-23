@@ -1,0 +1,11 @@
+import { readFileSync, writeFileSync } from 'node:fs';
+const f = new URL('./amazon-links.json', import.meta.url);
+const d = JSON.parse(readFileSync(f, 'utf8'));
+const x = d.find(y => y.id === 'cpu-7600');
+x.asin = 'B0BMQJWBDM';
+x.url = 'https://www.amazon.it/dp/B0BMQJWBDM';
+x.title = 'Processore AMD Ryzen 5 7600 (scheda grafica integrata Radeon, 6 cores/12 threads, 65W TDP, AM5 Socket)';
+x.kind = 'product';
+x.score = 1;
+writeFileSync(f, JSON.stringify(d, null, 2));
+console.log('corretto cpu-7600 ->', x.url);

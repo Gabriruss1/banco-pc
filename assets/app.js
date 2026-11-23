@@ -600,14 +600,16 @@
     if (!cat.required) {
       cards.push(`
         <li>
-          <button class="option option-none" data-part="" type="button">
-            <span class="opt-check" aria-hidden="true"></span>
-            <span class="opt-main">
-              <span class="opt-name">Nessuno</span>
-              <span class="opt-specs">Non includere ${cat.label.toLowerCase()} nella build</span>
-            </span>
-            <span class="opt-price"><strong>€0</strong><small>${current ? signed(-current.price) : ''}</small></span>
-          </button>
+          <div class="option option-none">
+            <button class="opt-body" data-part="" type="button">
+              <span class="opt-check" aria-hidden="true"></span>
+              <span class="opt-main">
+                <span class="opt-name">Nessuno</span>
+                <span class="opt-specs">Non includere ${cat.label.toLowerCase()} nella build</span>
+              </span>
+              <span class="opt-price"><strong>€0</strong><small>${current ? signed(-current.price) : ''}</small></span>
+            </button>
+          </div>
         </li>`);
     }
 
@@ -621,22 +623,27 @@
       if (isCurrent) tags.push('<span class="tag tag-current">Selezionato</span>');
       cards.push(`
         <li>
-          <button class="option${isCurrent ? ' is-current' : ''}${part.id === recommended ? ' is-recommended' : ''}" data-part="${part.id}" type="button">
-            <span class="opt-check" aria-hidden="true"></span>
-            <span class="opt-main">
-              <span class="opt-name">${escapeHtml(part.name)}</span>
-              <span class="opt-specs">${(part.specs || []).map(escapeHtml).join(' · ')}</span>
-              <span class="opt-meta">
-                <span class="compat compat-${compat.level}"><i></i>${escapeHtml(compat.text)}</span>
-                ${tags.join('')}
-                ${overBudget ? `<span class="tag tag-over">${euro(newTotal - state.budget)} sopra budget</span>` : ''}
+          <div class="option${isCurrent ? ' is-current' : ''}${part.id === recommended ? ' is-recommended' : ''}">
+            <button class="opt-body" data-part="${part.id}" type="button">
+              <span class="opt-check" aria-hidden="true"></span>
+              <span class="opt-main">
+                <span class="opt-name">${escapeHtml(part.name)}</span>
+                <span class="opt-specs">${(part.specs || []).map(escapeHtml).join(' · ')}</span>
+                <span class="opt-meta">
+                  <span class="compat compat-${compat.level}"><i></i>${escapeHtml(compat.text)}</span>
+                  ${tags.join('')}
+                  ${overBudget ? `<span class="tag tag-over">${euro(newTotal - state.budget)} sopra budget</span>` : ''}
+                </span>
               </span>
-            </span>
-            <span class="opt-price">
-              <strong>${euro(part.price)}</strong>
-              <small class="${delta < 0 ? 'is-down' : ''}">${current ? (delta === 0 ? '—' : signed(delta)) : ''}</small>
-            </span>
-          </button>
+              <span class="opt-price">
+                <strong>${euro(part.price)}</strong>
+                <small class="${delta < 0 ? 'is-down' : ''}">${current ? (delta === 0 ? '—' : signed(delta)) : ''}</small>
+              </span>
+            </button>
+            ${part.amazon ? `<a class="opt-amazon" href="${escapeHtml(part.amazon)}" target="_blank" rel="noopener noreferrer" title="Apri il prodotto su Amazon.it">Vedi su Amazon
+              <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3h7v7M13 3 4 12"/></svg>
+            </a>` : ''}
+          </div>
         </li>`);
     }
 

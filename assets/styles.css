@@ -946,18 +946,38 @@ dialog[open] { animation: dialog-in .18s ease-out; }
 .picker-list::-webkit-scrollbar-thumb { background: var(--line-strong); border-radius: 4px; }
 
 .option {
+  padding: 11px 13px;
+  border: 1.5px solid var(--line);
+  border-radius: 4px;
+  background: var(--surface);
+  transition: border-color .12s, background .12s;
+}
+.opt-body {
   display: grid;
   grid-template-columns: 18px minmax(0, 1fr) auto;
   gap: 12px;
   align-items: start;
   width: 100%;
-  padding: 11px 13px;
-  border: 1.5px solid var(--line);
-  border-radius: 4px;
-  background: var(--surface);
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
   text-align: left;
-  transition: border-color .12s, background .12s;
+  cursor: pointer;
 }
+.opt-amazon {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin: 8px 0 0 30px;
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--accent-dark);
+  text-decoration: none;
+}
+.opt-amazon:hover { text-decoration: underline; }
+.opt-amazon svg { width: 11px; height: 11px; fill: none; stroke: currentColor; stroke-width: 1.8; }
 .option:hover { border-color: var(--ink); background: #fcfdfd; }
 .option.is-recommended { border-color: #f5b79f; background: #fffaf7; }
 .option.is-current { border-color: var(--accent); background: #fff6f1; }
@@ -1226,7 +1246,9 @@ dialog[open] { animation: dialog-in .18s ease-out; }
   .picker-count { grid-column: 2; justify-self: end; }
   .picker { height: 92vh; height: 92dvh; max-height: none; }
   .picker-list { padding: 8px 10px; }
-  .option { grid-template-columns: 16px minmax(0, 1fr) auto; gap: 9px; padding: 10px; }
+  .option { padding: 10px; }
+  .opt-body { grid-template-columns: 16px minmax(0, 1fr) auto; gap: 9px; }
+  .opt-amazon { margin-left: 25px; }
   .opt-price strong { font-size: 19px; }
   .help { padding: 18px; }
   .help-steps { font-size: 12px; }
