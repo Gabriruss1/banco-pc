@@ -2,8 +2,8 @@
 
 Configuratore di PC da gioco in italiano: budget, componenti alternativi, controlli di compatibilità e stime di prestazioni.
 
-**Link pubblico:** https://9t5jmx.csb.app/
-Alla prima apertura CodeSandbox chiede conferma ("Yes, proceed to preview").
+**Link pubblico (GitHub Pages):** https://gabriruss1.github.io/banco-pc/
+Funziona su qualsiasi browser, senza avvisi. Backup su CodeSandbox: https://9t5jmx.csb.app/
 
 ## Come si usa
 

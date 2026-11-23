@@ -815,7 +815,11 @@ dialog[open] { animation: dialog-in .18s ease-out; }
 
 .picker {
   width: min(940px, calc(100vw - 28px));
-  max-height: min(88vh, 920px);
+  /* Altezza definita: Safari iOS non espande un figlio flex:1 dentro un
+     dialog che ha solo max-height, e la lista delle opzioni collassa. */
+  height: min(88vh, 920px);
+  height: min(88dvh, 920px);
+  max-height: none;
   flex-direction: column;
   overflow: hidden;
 }
@@ -929,7 +933,9 @@ dialog[open] { animation: dialog-in .18s ease-out; }
   margin: 0;
   padding: 10px 14px;
   overflow-y: auto;
-  flex: 1;
+  flex: 1 1 auto;
+  min-height: 0;
+  -webkit-overflow-scrolling: touch;
   display: grid;
   gap: 6px;
   align-content: start;
@@ -1218,7 +1224,7 @@ dialog[open] { animation: dialog-in .18s ease-out; }
   .picker-tools { grid-template-columns: minmax(0, 1fr) auto; }
   .picker-tools .check { grid-column: 1; }
   .picker-count { grid-column: 2; justify-self: end; }
-  .picker { max-height: 92vh; }
+  .picker { height: 92vh; height: 92dvh; max-height: none; }
   .picker-list { padding: 8px 10px; }
   .option { grid-template-columns: 16px minmax(0, 1fr) auto; gap: 9px; padding: 10px; }
   .opt-price strong { font-size: 19px; }
