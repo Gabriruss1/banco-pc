@@ -3,8 +3,18 @@ import { readFileSync, writeFileSync } from 'node:fs';
 const lines = readFileSync(new URL('./amazon-links.jsonl', import.meta.url), 'utf8')
   .trim().split('\n').filter(Boolean).map(l => JSON.parse(l));
 // Le ultime N righe sono la scansione piu recente (vince la validazione severa)
+// Tieni solo le voci il cui id coincide con un id prodotto reale (niente prefissi verify:/price:)
+const vm = await import('node:vm');
+const fs = await import('node:fs');
+const src = fs.readFileSync(new URL('./assets/data.js', import.meta.url), 'utf8');
+const ctx = {}; vm.createContext(ctx); vm.runInContext(src + ';globalThis.P=PARTS;', ctx);
+const validIds = new Set(ctx.P.map(p => p.id));
 const byId = new Map();
-for (const x of lines) if (x.id !== 'test') byId.set(x.id, x);
+for (const x of lines) {
+  if (x.id === 'test') continue;
+  if (!validIds.has(x.id)) continue;
+  byId.set(x.id, x);
+}
 const clean = [...byId.values()];
 writeFileSync(new URL('./amazon-links.json', import.meta.url), JSON.stringify(clean, null, 2));
 

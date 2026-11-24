@@ -5,11 +5,10 @@
     "kind": "product",
     "asin": "B09VCHR1VH",
     "url": "https://www.amazon.it/dp/B09VCHR1VH",
-    "title": "Processore AMD Ryzen 5 5600 (6 Cores/12 Threads, 65W, AM4 Socket) con Wraith Stealth",
+    "title": "Processore AMD Ryzen 5 5600 ( 6 Cores/12 Threads, 65W, AM4 Socket, Boost di Frequenza fino a 4.4 Ghz max, dissipatore ad aria\"Wraith stealth cooler\")",
     "score": 1,
-    "keys": [
-      "5600"
-    ],
+    "amazonPrice": 148.34,
+    "catalogPrice": 105,
     "captcha": false
   },
   {
@@ -20,9 +19,8 @@
     "url": "https://www.amazon.it/dp/B0D3893JNS",
     "title": "Processore AMD Ryzen 7 5700X3D ( 8 cores/16 Threads, 105W TDP, AM4 Socket, Cache 100Mb, up to 4,1 GHz max boost frequency, senza ventole) (Ricondizionato)",
     "score": 1,
-    "keys": [
-      "5700x3d"
-    ],
+    "amazonPrice": 299,
+    "catalogPrice": 200,
     "captcha": false
   },
   {
@@ -31,63 +29,58 @@
     "kind": "product",
     "asin": "B0BMQJWBDM",
     "url": "https://www.amazon.it/dp/B0BMQJWBDM",
-    "title": "Processore AMD Ryzen 5 7600 (scheda grafica integrata Radeon, 6 cores/12 threads, 65W TDP, AM5 Socket)",
+    "title": "Processore AMD Ryzen 5 7600 (scheda grafica integrata Radeon, 6 cores/12 threads, 65W TDP, AM5 Socket, 38MB cache, Boost di Frequenza fino a 5.1 GHz max, dissip",
     "score": 1,
-    "keys": [
-      "7600"
-    ],
+    "amazonPrice": 203.77,
+    "catalogPrice": 190,
     "captcha": false
   },
   {
     "id": "cpu-7600x",
     "name": "AMD Ryzen 5 7600X",
     "kind": "product",
-    "asin": "B0BBJDS62N",
-    "url": "https://www.amazon.it/dp/B0BBJDS62N",
-    "title": "Processore AMD Ryzen 5 7600X (scheda grafica integrata Radeon, 6 cores/12 threads, 105W TDP,AM5 socket, 38MB cache, Boost di Frequenza fino a 5.3 GHz max, senza",
+    "asin": "B0CTD6CMSS",
+    "url": "https://www.amazon.it/dp/B0CTD6CMSS",
+    "title": "AMD Ryzen 5 7600X 6 x 4.7GHz Hexa Core Processore (CPU) Tray Socket (PC): AM5 105W",
     "score": 1,
-    "keys": [
-      "7600x"
-    ],
+    "amazonPrice": 178.4,
+    "catalogPrice": 210,
     "captcha": false
   },
   {
     "id": "cpu-7700",
     "name": "AMD Ryzen 7 7700",
     "kind": "product",
-    "asin": "B0C3T39N6P",
-    "url": "https://www.amazon.it/dp/B0C3T39N6P",
-    "title": "AMD Ryzen 7 7700 processore 3,8 GHz 32 MB L3",
+    "asin": "B0BMQHSCVF",
+    "url": "https://www.amazon.it/dp/B0BMQHSCVF",
+    "title": "Processore AMD Ryzen 7 7700 (scheda grafica integrata Radeon, 8 cores/16 threads, 65W TDP, AM5 Socket,40MB Cache, Boost di Frequenza fino a 5.3 GHz max, dissipa",
     "score": 1,
-    "keys": [
-      "7700"
-    ],
+    "amazonPrice": 276.77,
+    "catalogPrice": 270,
     "captcha": false
   },
   {
     "id": "cpu-7800x3d",
     "name": "AMD Ryzen 7 7800X3D",
     "kind": "product",
-    "asin": "B0BTZB7F88",
-    "url": "https://www.amazon.it/dp/B0BTZB7F88",
-    "title": "Processore AMD Ryzen 7 7800X3D con 3D V Cache technology (scheda grafica integrata Radeon, 8 cores/16 threads, 120W TDP, AM5 Socket, 104MB cache, Boost di Frequ",
+    "asin": "B0CJML6LQZ",
+    "url": "https://www.amazon.it/dp/B0CJML6LQZ",
+    "title": "AMD Ryzen 7 7800X3D 4,2 GHz (Turbo 5,0 GHz) 8 core 16 thread 96 MB di cache, processore AM5 - Box",
     "score": 1,
-    "keys": [
-      "7800x3d"
-    ],
+    "amazonPrice": 337.17,
+    "catalogPrice": 350,
     "captcha": false
   },
   {
     "id": "cpu-9600x",
     "name": "AMD Ryzen 5 9600X",
     "kind": "product",
-    "asin": "B0D6NN6TM7",
-    "url": "https://www.amazon.it/dp/B0D6NN6TM7",
-    "title": "AMD Ryzen 5 9600X (scheda grafica integrata Radeon, 6 Cores/12 Threads, 65W DTP, Socket AM5, Cache 38MB, Boost di Frequenza fino a 5.4 GHz max, senza ventole)",
+    "asin": "B0DPXP4CKL",
+    "url": "https://www.amazon.it/dp/B0DPXP4CKL",
+    "title": "AMD Ryzen 5 9600X Vassoio",
     "score": 1,
-    "keys": [
-      "9600x"
-    ],
+    "amazonPrice": 193,
+    "catalogPrice": 230,
     "captcha": false
   },
   {
@@ -98,35 +91,32 @@
     "url": "https://www.amazon.it/dp/B0D6NMDNNX",
     "title": "AMD Ryzen 7 9700X (8 Cores/16 Threads) 65W DTP, AM5 socket, 40MB Cache, Boost di Frequenza fino a 5.5 GHz max, senza ventole)",
     "score": 1,
-    "keys": [
-      "9700x"
-    ],
+    "amazonPrice": 259.91,
+    "catalogPrice": 330,
     "captcha": false
   },
   {
     "id": "cpu-9800x3d",
     "name": "AMD Ryzen 7 9800X3D",
     "kind": "product",
-    "asin": "B0DKFMSMYK",
-    "url": "https://www.amazon.it/dp/B0DKFMSMYK",
-    "title": "AMD RYZEN ™ 7 9800X3D 8 Core/16 Thread sbloccati, Architettura Zen 5, 104 MB di Cache, TDP 120W, Fino a 5.2 GHz di Frequenza Boost, Socket AM5, Dissipatore Non ",
+    "asin": "B0DWWHP4V8",
+    "url": "https://www.amazon.it/dp/B0DWWHP4V8",
+    "title": "AMD CPU Ryzen 7 9800X3D, senza raffreddamento AM5, 4,7 GHz, 8 Core/16 Thread, 104 MB, 120W, rivenditore autorizzato, 100-100001084WOF/EW-1Y",
     "score": 1,
-    "keys": [
-      "9800x3d"
-    ],
+    "amazonPrice": 508.55,
+    "catalogPrice": 480,
     "captcha": false
   },
   {
     "id": "cpu-7900x",
     "name": "AMD Ryzen 9 7900X",
     "kind": "product",
-    "asin": "B0BBJ59WJ4",
-    "url": "https://www.amazon.it/dp/B0BBJ59WJ4",
-    "title": "Processore AMD Ryzen 9 7900X (scheda grafica integrata Radeon, 12 cores/24 threads, 170W DTP, AM5 Socket, 76MB cache, up to 5.6 GHz max boost, no cooler)",
+    "asin": "B0CPB4S2R6",
+    "url": "https://www.amazon.it/dp/B0CPB4S2R6",
+    "title": "AMD Ryzen 9 7900X Tray Zen4 12x4,7GHz",
     "score": 1,
-    "keys": [
-      "7900x"
-    ],
+    "amazonPrice": 421.96,
+    "catalogPrice": 380,
     "captcha": false
   },
   {
@@ -137,9 +127,8 @@
     "url": "https://www.amazon.it/dp/B0BTRH9MNS",
     "title": "Processore AMD Ryzen 9 7950X3D con 3D V-Cache technology (scheda grafica integrata, 16 cores/32 threads, 120W TDP, AM5 socket, Boost di Frequenza fino a 5.7GHz,",
     "score": 1,
-    "keys": [
-      "7950x3d"
-    ],
+    "amazonPrice": 831.95,
+    "catalogPrice": 600,
     "captcha": false
   },
   {
@@ -150,9 +139,8 @@
     "url": "https://www.amazon.it/dp/B0DVZSG8D5",
     "title": "AMD Ryzen 9 9950X3D Processore con tecnologia 3D V-Cache, 16 core/32 thread, cache da 144 MB, TDP da 170 W, socket AM5, frequenza di boost fino a 5,7 GHz, DDR5 ",
     "score": 1,
-    "keys": [
-      "9950x3d"
-    ],
+    "amazonPrice": 579.99,
+    "catalogPrice": 700,
     "captcha": false
   },
   {
@@ -163,52 +151,44 @@
     "url": "https://www.amazon.it/dp/B0CQ2ZVCWV",
     "title": "Intel® Core™ i3-14100F Processore per sistemi desktop 14100F 4 core 4 P-core + 0 E-core fino a 4,7 GHz",
     "score": 1,
-    "keys": [
-      "i3",
-      "14100f"
-    ],
+    "amazonPrice": 109.9,
+    "catalogPrice": 110,
     "captcha": false
   },
   {
     "id": "cpu-12400f",
     "name": "Intel Core i5-12400F",
     "kind": "product",
-    "asin": "B09WW1KKH8",
-    "url": "https://www.amazon.it/dp/B09WW1KKH8",
-    "title": "Intel CPU/Core i5-12400F - Vassoio LGA1700 da 4,40 GHZ",
+    "asin": "B0B2X1KDNS",
+    "url": "https://www.amazon.it/dp/B0B2X1KDNS",
+    "title": "Intel S1700 CORE i5 12400F TRAY 6x2,5 65W GEN12",
     "score": 1,
-    "keys": [
-      "i5",
-      "12400f"
-    ],
+    "amazonPrice": 146.91,
+    "catalogPrice": 120,
     "captcha": false
   },
   {
     "id": "cpu-13400f",
     "name": "Intel Core i5-13400F",
     "kind": "product",
-    "asin": "B0BN61LYFB",
-    "url": "https://www.amazon.it/dp/B0BN61LYFB",
-    "title": "Intel® Core™ i5-13400F, processore desktop, per sistemi desktop 10 core (6 P-core + 4 E-core) Cache 20 MB, fino a 4,6 GHz",
+    "asin": "B0FPGM87Y9",
+    "url": "https://www.amazon.it/dp/B0FPGM87Y9",
+    "title": "Intel Core i5-13400F processore 20 MB Cache intelligente",
     "score": 1,
-    "keys": [
-      "i5",
-      "13400f"
-    ],
+    "amazonPrice": 216.48,
+    "catalogPrice": 160,
     "captcha": false
   },
   {
     "id": "cpu-14600kf",
     "name": "Intel Core i5-14600KF",
     "kind": "product",
-    "asin": "B0CHBH63YX",
-    "url": "https://www.amazon.it/dp/B0CHBH63YX",
-    "title": "Intel® Core™ i5 Processore per sistemi desktop 14600KF 14 core (6 P-core + 8 E-core) fino a 5,3 GHz",
+    "asin": "B0HKVGKF8T",
+    "url": "https://www.amazon.it/dp/B0HKVGKF8T",
+    "title": "Intel Core i5-14600KF CPU, 14 core e 20 thread, 6P+8E, Turbo a 5,3 GHz",
     "score": 1,
-    "keys": [
-      "i5",
-      "14600kf"
-    ],
+    "amazonPrice": 259.99,
+    "catalogPrice": 230,
     "captcha": false
   },
   {
@@ -219,62 +199,56 @@
     "url": "https://www.amazon.it/dp/B0CGJC178L",
     "title": "Intel® Core™ i7 Processore per sistemi desktop 14700KF 20 core (8 P-core + 12 E-core) fino a 5,6 GHz",
     "score": 1,
-    "keys": [
-      "i7",
-      "14700kf"
-    ],
+    "amazonPrice": 364.55,
+    "catalogPrice": 380,
     "captcha": false
   },
   {
     "id": "cpu-245kf",
     "name": "Intel Core Ultra 5 245KF",
     "kind": "product",
-    "asin": "B0DFK8HHK4",
-    "url": "https://www.amazon.it/dp/B0DFK8HHK4",
-    "title": "Intel® Core™ Ultra 5 per sistemi processore desktop 245KF 14 core 6 P-core + 8 E-core fino a 5,2 GHz, 5 245KF",
+    "asin": "B0HNVYJHRC",
+    "url": "https://www.amazon.it/dp/B0HNVYJHRC",
+    "title": "Intel Core Ultra 5 245KF Processore Desktop 14 Core 5.2 GHz",
     "score": 1,
-    "keys": [
-      "245kf"
-    ],
+    "amazonPrice": 250,
+    "catalogPrice": 260,
     "captcha": false
   },
   {
     "id": "cpu-265kf",
     "name": "Intel Core Ultra 7 265KF",
     "kind": "product",
-    "asin": "B0DFK2WHF8",
-    "url": "https://www.amazon.it/dp/B0DFK2WHF8",
-    "title": "Intel® Core™ Ultra 7 per sistemi processore desktop 265KF 20 core 8 P-core + 12 E-core fino a 5,5 GHz, 7 265KF",
+    "asin": "B0H2Z7VF4G",
+    "url": "https://www.amazon.it/dp/B0H2Z7VF4G",
+    "title": "Processore desktop Intel Ultra 7 265KF, 20 core, fino a 5,5 GHz, 36 MB di cache, socket LGA1851, 125 W, nessuna soluzione termica",
     "score": 1,
-    "keys": [
-      "265kf"
-    ],
+    "amazonPrice": 360,
+    "catalogPrice": 400,
     "captcha": false
   },
   {
     "id": "cpu-285k",
     "name": "Intel Core Ultra 9 285K",
     "kind": "product",
-    "asin": "B0DFKC99VL",
-    "url": "https://www.amazon.it/dp/B0DFKC99VL",
-    "title": "Intel® Core™ Ultra 9 per sistemi processore desktop 285K 24 core 8 P-core + 16 E-core fino a 5,7 GHz, 9 285K",
+    "asin": "B0H5KBXR26",
+    "url": "https://www.amazon.it/dp/B0H5KBXR26",
+    "title": "Intel Core Ultra 9 285k - 3,7 Ghz - 24 Core",
     "score": 1,
-    "keys": [
-      "285k"
-    ],
+    "amazonPrice": 652.99,
+    "catalogPrice": 620,
     "captcha": false
   },
   {
     "id": "mb-b550m",
     "name": "MSI B550M Pro-VDH",
     "kind": "product",
-    "asin": "B08NCK1MBQ",
-    "url": "https://www.amazon.it/dp/B08NCK1MBQ",
-    "title": "MSI B550M PRO-VDH Scheda Madre M-ATX, Supporta AMD Ryzen 3rd Gen, AM4",
+    "asin": "B0GP9GJW53",
+    "url": "https://www.amazon.it/dp/B0GP9GJW53",
+    "title": "MSI Scheda madre PRO B550M-B, mATX - Supporta processori desktop AMD Ryzen 5000/5000 G-Series, 4000 G-Series, 3000/3000 G-Series, AM4 - DDR4 Memory Boost (fino ",
     "score": 1,
-    "keys": [
-      "b550m"
-    ],
+    "amazonPrice": 87.78,
+    "catalogPrice": 90,
     "captcha": false
   },
   {
@@ -285,9 +259,8 @@
     "url": "https://www.amazon.it/dp/B096Y35W2C",
     "title": "MSI B550 GAMING WIFI Scheda Madre ATX AM4, LGA 1851, Wi-Fi 7",
     "score": 1,
-    "keys": [
-      "b550"
-    ],
+    "amazonPrice": 114.99,
+    "catalogPrice": 120,
     "captcha": false
   },
   {
@@ -296,64 +269,58 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Gigabyte%20B650M%20DS3H",
-    "title": "GIGABYTE B650M D3HP AX Scheda madre - AMD Ryzen serie 9000, VRM a 5+2+2 fasi, fino a 7600 MHz DDR5 (OC), 2xPCIe 4.0 M.2, LAN 2,5 GbE, WIFI 6E, USB 3.2 Gen 1",
+    "title": "GIGABYTE B550M DS3H R2 Scheda madre - CPU AMD Ryzen 5000, VRM a 5+3 fasi, fino a 4733 MHz DDR4 (O.C.), 1x M.2 PCIe 4.0 + 1x M.2 PCIe 3.0, LAN 1 GbE, USB 3.2 Gen",
     "score": 0.5,
-    "keys": [
-      "b650m",
-      "ds3h"
-    ],
+    "amazonPrice": 117.7,
+    "catalogPrice": 120,
     "captcha": false
   },
   {
     "id": "mb-b650",
     "name": "Gigabyte B650 Eagle AX",
     "kind": "product",
-    "asin": "B0CSKH1NJF",
-    "url": "https://www.amazon.it/dp/B0CSKH1NJF",
-    "title": "GIGABYTE B650 EAGLE AX Scheda madre - AMD Ryzen serie 9000, VRM a 12+2+2 fasi, fino a 7600 MHz DDR5 (OC), 1xPCIe 5.0 + 2xPCIe 4.0 M.2, LAN GbE, WIFI 6E, USB 3.2",
+    "asin": "B0BHJKR3BV",
+    "url": "https://www.amazon.it/dp/B0BHJKR3BV",
+    "title": "ASUS TUF GAMING B650-PLUS WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera",
     "score": 1,
-    "keys": [
-      "b650"
-    ],
+    "amazonPrice": 149.99,
+    "catalogPrice": 150,
     "captcha": false
   },
   {
     "id": "mb-b650e",
     "name": "ASUS ROG Strix B650E-F",
     "kind": "product",
-    "asin": "B0BHHTJZM9",
-    "url": "https://www.amazon.it/dp/B0BHHTJZM9",
-    "title": "ASUS ROG STRIX B650E-F GAMING WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera",
+    "asin": "B0F1Z5982Y",
+    "url": "https://www.amazon.it/dp/B0F1Z5982Y",
+    "title": "ASUS TUF GAMING B650E-PLUS WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera",
     "score": 1,
-    "keys": [
-      "b650e"
-    ],
+    "amazonPrice": 177.01,
+    "catalogPrice": 210,
     "captcha": false
   },
   {
     "id": "mb-b650i",
     "name": "ASUS ROG Strix B650E-I",
     "kind": "product",
-    "asin": "B0BHHVC3BS",
-    "url": "https://www.amazon.it/dp/B0BHHVC3BS",
-    "title": "ASUS ROG STRIX B650E-I GAMING WIFI, Scheda Madre AMD Mini-ITX, DDR5, Nera",
+    "asin": "B0F1Z5982Y",
+    "url": "https://www.amazon.it/dp/B0F1Z5982Y",
+    "title": "ASUS TUF GAMING B650E-PLUS WIFI, Scheda Madre AMD ATX, Slot DDR5, Nera",
     "score": 1,
-    "keys": [
-      "b650e"
-    ],
+    "amazonPrice": 177.01,
+    "catalogPrice": 210,
     "captcha": false
   },
   {
     "id": "mb-b850",
     "name": "MSI MAG B850 Tomahawk",
     "kind": "product",
-    "asin": "B0DPKVF29H",
-    "url": "https://www.amazon.it/dp/B0DPKVF29H",
-    "title": "MSI MAG B850 TOMAHAWK MAX WIFI Scheda madre, ATX, AM5-80A SPS VRM",
+    "asin": "B0DPKV94MX",
+    "url": "https://www.amazon.it/dp/B0DPKV94MX",
+    "title": "MSI B850 GAMING PLUS WIFI Scheda madre ATX, AM5, 5G LAN",
     "score": 1,
-    "keys": [
-      "b850"
-    ],
+    "amazonPrice": 201.01,
+    "catalogPrice": 200,
     "captcha": false
   },
   {
@@ -364,22 +331,20 @@
     "url": "https://www.amazon.it/dp/B09YCV8XQG",
     "title": "MSI MAG X670E TOMAHAWK WIFI Scheda Madre ATX - Supporta AMD Ryzen 7000, AM5-80A SPS VRM, DDR5 Memory Boost 6600+MHz/OC, PCIe 5.0 x16, M.2 Gen5, Wi-Fi 6E",
     "score": 1,
-    "keys": [
-      "x670e"
-    ],
+    "amazonPrice": 301.79,
+    "catalogPrice": 280,
     "captcha": false
   },
   {
     "id": "mb-x870",
     "name": "Gigabyte X870 Aorus Elite",
     "kind": "product",
-    "asin": "B0DGVC3DDW",
-    "url": "https://www.amazon.it/dp/B0DGVC3DDW",
-    "title": "GIGABYTE X870 AORUS ELITE WIFI7 Scheda Madre - Supporta CPU AMD Ryzen 9000, 16+2+2 fasi VRM, fino a 8000MHz DDR5 (OC), 3xPCIe 5.0 + 1xPCIe 4.0, Wi-Fi 7, LAN 2.5",
+    "asin": "B0FRR84MKC",
+    "url": "https://www.amazon.it/dp/B0FRR84MKC",
+    "title": "GIGABYTE X870 AORUS ELITE X3D ICE Scheda Madre - Supporta CPU AMD Ryzen 9000, VRM digitale 16+2+2 fasi, fino a 9000Hz DDR5 (OC), 2xPCIe 5.0 + 2xPCIe 4.0, Wi-Fi ",
     "score": 1,
-    "keys": [
-      "x870"
-    ],
+    "amazonPrice": 274.99,
+    "catalogPrice": 270,
     "captcha": false
   },
   {
@@ -390,24 +355,20 @@
     "url": "https://www.amazon.it/dp/B0BPMH3N7H",
     "title": "GIGABYTE B760M DS3H DDR4 Scheda Madre - Supporta CPU Intel Core di 14a Generazione, VRM Digitale 6+2+1 Fasi, fino a 5333MHz DDR4 (OC), 2xPCIe 4.0 M.2, LAN 2.5Gb",
     "score": 1,
-    "keys": [
-      "b760m",
-      "ds3h",
-      "ddr4"
-    ],
+    "amazonPrice": 109.18,
+    "catalogPrice": 110,
     "captcha": false
   },
   {
     "id": "mb-b760",
     "name": "Gigabyte B760 Gaming X",
     "kind": "product",
-    "asin": "B0FBLS93BQ",
-    "url": "https://www.amazon.it/dp/B0FBLS93BQ",
-    "title": "GIGABYTE B760 GAMING X DDR4 GEN5 Scheda Madre – Supporta processori Intel Core 14ᵃ generazione, VRM 8+1+1 fasi, fino a 5333 MHz DDR4 (OC), 3xPCIe 4.0 M.2, LAN 2",
+    "asin": "B0BTWPDB5T",
+    "url": "https://www.amazon.it/dp/B0BTWPDB5T",
+    "title": "GIGABYTE B760 GAMING X Scheda Madre - Supporta processori Intel Core 14ª generazione, VRM digitale a 8+1+1 fasi, fino a 7600MHz DDR5 (OC), 3x PCIe 4.0 M.2, 2.5G",
     "score": 1,
-    "keys": [
-      "b760"
-    ],
+    "amazonPrice": 153.74,
+    "catalogPrice": 150,
     "captcha": false
   },
   {
@@ -418,9 +379,8 @@
     "url": "https://www.amazon.it/dp/B09Y1FJBHX",
     "title": "MSI MAG Z790 TOMAHAWK WIFI Scheda Madre ATX, Socket LGA 1700, Compatibile con Intel Core 14ª/13ª/12ª Gen, DDR5 7200+ MHz (OC), PCIe 5.0, 4x M.2 Gen4, VRM 90A SP",
     "score": 1,
-    "keys": [
-      "z790"
-    ],
+    "amazonPrice": 219,
+    "catalogPrice": 240,
     "captcha": false
   },
   {
@@ -431,35 +391,32 @@
     "url": "https://www.amazon.it/dp/B0DPMQ7F7R",
     "title": "ASUS PRIME B860M-A WIFI, Scheda Madre Intel mATX, Slot DDR5, Nera",
     "score": 1,
-    "keys": [
-      "b860m"
-    ],
+    "amazonPrice": 169.94,
+    "catalogPrice": 170,
     "captcha": false
   },
   {
     "id": "mb-z890",
     "name": "Gigabyte Z890 Aorus Elite",
     "kind": "product",
-    "asin": "B0DK7M5X2R",
-    "url": "https://www.amazon.it/dp/B0DK7M5X2R",
-    "title": "GIGABYTE Z890 AORUS ELITE WIFI7 Scheda Madre - Supporta CPU Intel Core Ultra (Serie 2), 16+1+2 Fasi VRM, fino a 8800MHz DDR5 (OC), 1xPCIe 5.0 + 3xPCIe 4.0, Wi-F",
+    "asin": "B0DJP7NRXX",
+    "url": "https://www.amazon.it/dp/B0DJP7NRXX",
+    "title": "GIGABYTE Scheda madre Z890 AORUS Elite WIFI7 ICE Intel Core Ultra (Series 2) LGA 1851, ATX, DDR5, 3X M.2, PCIe 5.0, Thunderbolt 4, WIFI7, 2.5GbE LAN, EZ-Latch",
     "score": 1,
-    "keys": [
-      "z890"
-    ],
+    "amazonPrice": 312.04,
+    "catalogPrice": 300,
     "captcha": false
   },
   {
     "id": "gpu-rx6600",
     "name": "AMD Radeon RX 6600",
-    "kind": "product",
-    "asin": "B09GW3XN7K",
-    "url": "https://www.amazon.it/dp/B09GW3XN7K",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=AMD%20Radeon%20RX%206600",
     "title": "msi Radeon RX 6600 MECH 2X 8G Scheda video gaming - 8GB GDDR6, 2491 MHz, PCI Express 4 x 8, 128-bit, 3x DP v 1.4a, HDMI 2.1 (Supporta 4K & 8K)",
     "score": 1,
-    "keys": [
-      "6600"
-    ],
+    "amazonPrice": 534.97,
+    "catalogPrice": 190,
     "captcha": false
   },
   {
@@ -470,23 +427,20 @@
     "url": "https://www.amazon.it/dp/B0DQK4XSC7",
     "title": "GIGABYTE GeForce RTX 3050 WINDFORCE OC V2 6G Scheda Grafica, 2X Ventole WINDFORCE, 6GB GDDR6 96-bit GDDR6, GV-N3050WF2OCV2-6GD Scheda Grafica",
     "score": 1,
-    "keys": [
-      "3050",
-      "6gb"
-    ],
+    "amazonPrice": 293.97,
+    "catalogPrice": 175,
     "captcha": false
   },
   {
     "id": "gpu-rx7600",
     "name": "AMD Radeon RX 7600",
     "kind": "product",
-    "asin": "B0DKPGQT97",
-    "url": "https://www.amazon.it/dp/B0DKPGQT97",
-    "title": "ASUS DUAL RX7600 EVO OC, Scheda Grafica 8 GB GDDR6 AMD Radeon, Nera",
+    "asin": "B0C59RVD98",
+    "url": "https://www.amazon.it/dp/B0C59RVD98",
+    "title": "XFX SPEEDSTER SWFT210 RADEON RX 7600 CORE - Scheda grafica da gioco con 8 GB GDDR6 HDMI 3xDP, AMD RDNA™ 3 (RX-76PSWFTFY)",
     "score": 1,
-    "keys": [
-      "7600"
-    ],
+    "amazonPrice": 451.02,
+    "catalogPrice": 260,
     "captcha": false
   },
   {
@@ -497,35 +451,32 @@
     "url": "https://www.amazon.it/dp/B0DNV4NWF7",
     "title": "Asrock Challenger Intel Arc B580 12gb Oc - Grafikkarten - Arc B580 - 12gb Gddr6 - Pcie 4,0 X8 - 3 X Displayport, Hdmi (b580 Cl 12go)",
     "score": 1,
-    "keys": [
-      "b580"
-    ],
+    "amazonPrice": 522.86,
+    "catalogPrice": 280,
     "captcha": false
   },
   {
     "id": "gpu-rtx5060",
     "name": "NVIDIA RTX 5060",
     "kind": "product",
-    "asin": "B0F32ND24S",
-    "url": "https://www.amazon.it/dp/B0F32ND24S",
-    "title": "MSI NVIDIA GeForce RTX 5060 Ti 8G Ventus 2X OC Plus Scheda Grafica",
+    "asin": "B0HCPG5YJN",
+    "url": "https://www.amazon.it/dp/B0HCPG5YJN",
+    "title": "MSI Scheda video GeForce RTX 5060 8G GAMING OC V1",
     "score": 1,
-    "keys": [
-      "5060"
-    ],
+    "amazonPrice": 537.9,
+    "catalogPrice": 330,
     "captcha": false
   },
   {
     "id": "gpu-rtx4060",
     "name": "NVIDIA RTX 4060",
-    "kind": "product",
-    "asin": "B0C8ZQTRD7",
-    "url": "https://www.amazon.it/dp/B0C8ZQTRD7",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=NVIDIA%20RTX%204060",
     "title": "Gigabyte NVIDIA GeForce RTX 4060 WINDFORCE OC Scheda grafica - 8GB GDDR6, 128-bit, PCI-E 4.0, 2475MHz Core Clock, 2x DP 1.4, 2x HDMI 2.1a, NVIDIA DLSS 3 - GV-N4",
     "score": 1,
-    "keys": [
-      "4060"
-    ],
+    "amazonPrice": 772.19,
+    "catalogPrice": 290,
     "captcha": false
   },
   {
@@ -536,10 +487,8 @@
     "url": "https://www.amazon.it/dp/B0BRYMYSMZ",
     "title": "ASUS DUAL NVIDIA GeForce RTX 4060 Ti OC Edition Scheda Grafica, 8 GB GDDR6 128-bit 18 Gbps PCIE 4.0, GPU Tweak III, DUAL-RTX4060TI-O8G",
     "score": 1,
-    "keys": [
-      "4060",
-      "8gb"
-    ],
+    "amazonPrice": 696.01,
+    "catalogPrice": 380,
     "captcha": false
   },
   {
@@ -550,36 +499,32 @@
     "url": "https://www.amazon.it/dp/B0CGVQMBCC",
     "title": "Sapphire Pure AMD Radeon™ RX 7700 XT Gaming OC 12GB GDDR6 Dual HDMI/Dual DP",
     "score": 1,
-    "keys": [
-      "7700"
-    ],
+    "amazonPrice": 812.28,
+    "catalogPrice": 400,
     "captcha": false
   },
   {
     "id": "gpu-rtx5060ti",
     "name": "NVIDIA RTX 5060 Ti 16 GB",
     "kind": "product",
-    "asin": "B0F4DVKSZ4",
-    "url": "https://www.amazon.it/dp/B0F4DVKSZ4",
-    "title": "ASUS DUAL RTX5060Ti OC, Scheda Grafica da 16GB GDDR7 NVIDIA GeForce, Grigia",
+    "asin": "B0FDQXHYFW",
+    "url": "https://www.amazon.it/dp/B0FDQXHYFW",
+    "title": "Gigabyte GeForce RTX 5060 Ti WINDFORCE MAX OC 16G Scheda Grafica – 16 GB GDDR7, 128 bit, PCI-E 5.0, 2587 MHz Frequenza del core, 3 x DisplayPort, 1 x HDMI, NVID",
     "score": 1,
-    "keys": [
-      "5060",
-      "16gb"
-    ],
+    "amazonPrice": 848.79,
+    "catalogPrice": 450,
     "captcha": false
   },
   {
     "id": "gpu-rx7800xt",
     "name": "AMD Radeon RX 7800 XT",
     "kind": "product",
-    "asin": "B0CGM19NMS",
-    "url": "https://www.amazon.it/dp/B0CGM19NMS",
-    "title": "SAPPHIRE Pulse AMD Radeon™ RX 7800 XT Gaming 16GB GDDR6 Dual HDMI/Dual DP",
+    "asin": "B07MDV2F3L",
+    "url": "https://www.amazon.it/dp/B07MDV2F3L",
+    "title": "ASUS TUF Gaming AMD Radeon RX 7800 XT OC Edition Scheda Grafica 16 GB, GDDR6 256-bit, OpenGL 4.6, 19,5 Gbps PCIE 4.0, 750W, HDMI, 3 DisplayPort, GPU Tweak III, ",
     "score": 1,
-    "keys": [
-      "7800"
-    ],
+    "amazonPrice": 926.07,
+    "catalogPrice": 500,
     "captcha": false
   },
   {
@@ -590,282 +535,236 @@
     "url": "https://www.amazon.it/dp/B0CVNJLHXW",
     "title": "XFX Radeon RX 7900 GRE AMD 16 Go GDDR6",
     "score": 1,
-    "keys": [
-      "7900"
-    ],
+    "amazonPrice": 849,
+    "catalogPrice": 560,
     "captcha": false
   },
   {
     "id": "gpu-rtx4070s",
     "name": "NVIDIA RTX 4070 Super",
     "kind": "product",
-    "asin": "B0CSJYJP6M",
-    "url": "https://www.amazon.it/dp/B0CSJYJP6M",
-    "title": "GIGABYTE GeForce RTX 4070 - Scheda grafica Super Eagle OC 12G, 3 ventole WINDFORCE, 12 GB 192-bit GDDR6X, GV-N407SEAGLE OC-12GD",
+    "asin": "B0C4BTH5FQ",
+    "url": "https://www.amazon.it/dp/B0C4BTH5FQ",
+    "title": "ASUS Dual GeForce RTX™ 4070 White Edition 12GB GDDR6X (PCIe 4.0, 12GB GDDR6X, DLSS 3, HDMI 2.1, DisplayPort 1.4a, design slot 2.56, design ventola Axial-tech, t",
     "score": 1,
-    "keys": [
-      "4070"
-    ],
+    "amazonPrice": 855.24,
+    "catalogPrice": 600,
     "captcha": false
   },
   {
     "id": "gpu-rtx5070",
     "name": "NVIDIA RTX 5070",
     "kind": "product",
-    "asin": "B0DTGNTQ3C",
-    "url": "https://www.amazon.it/dp/B0DTGNTQ3C",
-    "title": "Gigabyte GeForce RTX 5070 GAMING OC 12G Scheda Grafica - 12GB GDDR7, 192 bit, PCI-E 5.0, 2625 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVIDIA DLSS 4, GV-N507",
+    "asin": "B0DTGP4M7J",
+    "url": "https://www.amazon.it/dp/B0DTGP4M7J",
+    "title": "Gigabyte GeForce RTX 5070 EAGLE OC SFF 12G Scheda Grafica - 12GB GDDR7, 192 bit, PCI-E 5.0, 2587 MHz Core Clock, 3 x DP 2.1b, 1 x HDMI 2.1b, NVIDIA DLSS 4, GV-N",
     "score": 1,
-    "keys": [
-      "5070"
-    ],
+    "amazonPrice": 992.86,
+    "catalogPrice": 620,
     "captcha": false
   },
   {
     "id": "gpu-rx9070",
     "name": "AMD Radeon RX 9070",
     "kind": "product",
-    "asin": "B09BLBG46B",
-    "url": "https://www.amazon.it/dp/B09BLBG46B",
-    "title": "ASUS PRIME RX9070 GRE OC, Scheda Grafica 12 GB GDDR6 AMD Radeon, Nera",
+    "asin": "B0H2NCCDQG",
+    "url": "https://www.amazon.it/dp/B0H2NCCDQG",
+    "title": "Sapphire Pulse Radeon OC - Grafikkarte - Radeon RX 9070 GRE",
     "score": 1,
-    "keys": [
-      "9070"
-    ],
+    "amazonPrice": 785.2,
+    "catalogPrice": 650,
     "captcha": false
   },
   {
     "id": "gpu-rx9070xt",
     "name": "AMD Radeon RX 9070 XT",
     "kind": "product",
-    "asin": "B0DSG52H7D",
-    "url": "https://www.amazon.it/dp/B0DSG52H7D",
-    "title": "ASUS PRIME RX9070XT OC, Scheda Grafica 16 GB GDDR6 AMD Radeon, Nera",
+    "asin": "B0H2W524DW",
+    "url": "https://www.amazon.it/dp/B0H2W524DW",
+    "title": "Gigabyte Radeon RX 9070 GRE GAMING OC 12G – Scheda grafica, 12GB GDDR6, 192bit, PCI-E 5.0, 2920 MHz Core Clock, 2 × DisplayPort, 2 × HDMI, GV-R907GREGAMING OC-1",
     "score": 1,
-    "keys": [
-      "9070"
-    ],
+    "amazonPrice": 836.93,
+    "catalogPrice": 750,
     "captcha": false
   },
   {
     "id": "gpu-rtx4070tis",
     "name": "NVIDIA RTX 4070 Ti Super",
     "kind": "product",
-    "asin": "B0CQTPBF6S",
-    "url": "https://www.amazon.it/dp/B0CQTPBF6S",
-    "title": "Gigabyte GeForce RTX 4070 Ti SUPER GAMING OC - 2655MHz Core, 16 GB GDDR6X 21000 MHz 256-bit di memoria, PCI-E 4.0, 3 x DP 1.4, 1 x HDMI 2.1a, NVIDIA DLSS 3.5, G",
+    "asin": "B0BHF15JFS",
+    "url": "https://www.amazon.it/dp/B0BHF15JFS",
+    "title": "msi Geforce RTX 4070 Ti Gaming X Trio 12G Scheda Video Gaming, 12 Gb GDDR6X, 2760 MHZ, PCI Express Gen 4, 192 Bit, 3X Dp V 1.4A, HDMI 2.1A, Supporta 4K e 8K HDR",
     "score": 1,
-    "keys": [
-      "4070"
-    ],
+    "amazonPrice": 1289.99,
+    "catalogPrice": 800,
     "captcha": false
   },
   {
     "id": "gpu-rtx5070ti",
     "name": "NVIDIA RTX 5070 Ti",
     "kind": "product",
-    "asin": "B0DTGPC5KR",
-    "url": "https://www.amazon.it/dp/B0DTGPC5KR",
-    "title": "Gigabyte GeForce RTX 5070 Ti GAMING OC 16G Scheda Grafica - 16GB GDDR7, 256 bit, PCI-E 5.0, 2588 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVIDIA DLSS 4, GV-N",
+    "asin": "B0DTGM4QSD",
+    "url": "https://www.amazon.it/dp/B0DTGM4QSD",
+    "title": "Gigabyte GeForce RTX 5070 EAGLE OC ICE SFF 12G Scheda Grafica - 12GB GDDR7, 192 bit, PCI-E 5.0, 2587 MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVIDIA DLSS 4, ",
     "score": 1,
-    "keys": [
-      "5070"
-    ],
+    "amazonPrice": 999,
+    "catalogPrice": 820,
     "captcha": false
   },
   {
     "id": "gpu-rx7900xtx",
     "name": "AMD Radeon RX 7900 XTX",
     "kind": "product",
-    "asin": "B0BNLT17XQ",
-    "url": "https://www.amazon.it/dp/B0BNLT17XQ",
-    "title": "XFX Speedster MERC310 AMD Radeon™ RX 7900XT Gaming Scheda grafica 20GB GDDR6, AMD RDNA™ 3(RX-79TMERCU9)",
+    "asin": "B0CVNJLHXW",
+    "url": "https://www.amazon.it/dp/B0CVNJLHXW",
+    "title": "XFX Radeon RX 7900 GRE AMD 16 Go GDDR6",
     "score": 1,
-    "keys": [
-      "7900"
-    ],
+    "amazonPrice": 849,
+    "catalogPrice": 950,
     "captcha": false
   },
   {
     "id": "gpu-rtx5080",
     "name": "NVIDIA RTX 5080",
     "kind": "product",
-    "asin": "B0DSQ3B6PH",
-    "url": "https://www.amazon.it/dp/B0DSQ3B6PH",
-    "title": "Gigabyte GeForce RTX 5080 AERO OC SFF 16G Scheda Grafica - 16GB GDDR7, 256 bit, PCI-E 5.0, 2730MHz Core Clock, 3 x DisplayPort, 1 x HDMI, GV-N5080AERO OC-16GD",
+    "asin": "B0GZWW2RKH",
+    "url": "https://www.amazon.it/dp/B0GZWW2RKH",
+    "title": "MSI GeForce RTX 5080 16G VENTUS 3X OC - Grafikkarte",
     "score": 1,
-    "keys": [
-      "5080"
-    ],
+    "amazonPrice": 1999,
+    "catalogPrice": 1150,
     "captcha": false
   },
   {
     "id": "gpu-rtx5090",
     "name": "NVIDIA RTX 5090",
-    "kind": "product",
-    "asin": "B0DT9WQW4T",
-    "url": "https://www.amazon.it/dp/B0DT9WQW4T",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=NVIDIA%20RTX%205090",
     "title": "Gigabyte GeForce RTX 5090 GAMING OC 32G Scheda Grafica - 32GB GDDR7, 512 bit, PCI-E 5.0, 2550MHz Core Clock, 3 x DP 2.1a, 1 x HDMI 2.1b, NVIDIA DLSS 4, GV-N5090",
     "score": 1,
-    "keys": [
-      "5090"
-    ],
+    "amazonPrice": 6055.44,
+    "catalogPrice": 2300,
     "captcha": false
   },
   {
     "id": "ram-ddr4-16",
     "name": "16 GB DDR4 3200 CL16",
-    "kind": "product",
-    "asin": "B07RW6Z692",
-    "url": "https://www.amazon.it/dp/B07RW6Z692",
-    "title": "Corsair VENGEANCE LPX DDR4 RAM 32GB (2x16GB) 3200MHz CL16 Intel XMP 2.0 Memoria per computer - Nero (CMK32GX4M2E3200C16)",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=16%20GB%20DDR4%203200%20CL16",
+    "title": "G.Skill F4-3200C16D-16GIS Aegis DDR4 da 16 GB PC 3200 CL16 KIT (2 x 8 GB)",
     "score": 1,
-    "keys": [
-      "16gb",
-      "ddr4",
-      "3200",
-      "cl16"
-    ],
+    "amazonPrice": 134.98,
+    "catalogPrice": 35,
     "captcha": false
   },
   {
     "id": "ram-ddr4-32",
     "name": "32 GB DDR4 3600 CL18",
-    "kind": "product",
-    "asin": "B097K4QKQK",
-    "url": "https://www.amazon.it/dp/B097K4QKQK",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=32%20GB%20DDR4%203600%20CL18",
     "title": "Kingston FURY Beast 32GB (2x16GB) 3600MHz DDR4 CL18 Memoria Gaming Kit per Computer Fissi Kit da 2 KF436C18BBK2/32",
     "score": 1,
-    "keys": [
-      "32gb",
-      "ddr4",
-      "3600",
-      "cl18"
-    ],
+    "amazonPrice": 260.6,
+    "catalogPrice": 60,
     "captcha": false
   },
   {
     "id": "ram-ddr5-16-5600",
     "name": "16 GB DDR5 5600 CL40",
-    "kind": "product",
-    "asin": "B09XY6PBG9",
-    "url": "https://www.amazon.it/dp/B09XY6PBG9",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=16%20GB%20DDR5%205600%20CL40",
     "title": "Patriot Memory Viper Venom Kit DDR5 RAM 16GB (2 x 8GB) 5600MHz CL40",
     "score": 1,
-    "keys": [
-      "16gb",
-      "ddr5",
-      "5600",
-      "cl40"
-    ],
+    "amazonPrice": 284.99,
+    "catalogPrice": 45,
     "captcha": false
   },
   {
     "id": "ram-ddr5-16-6000",
     "name": "16 GB DDR5 6000 CL30",
-    "kind": "product",
-    "asin": "B0DKQ6VH85",
-    "url": "https://www.amazon.it/dp/B0DKQ6VH85",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=16%20GB%20DDR5%206000%20CL30",
     "title": "Patriot Viper Venom DDR5 RAM 16GB (1X16GB) 6000MT/s CL30 UDIMM Desktop Gaming Memory Module - PVV516G60C30",
     "score": 1,
-    "keys": [
-      "16gb",
-      "ddr5",
-      "6000",
-      "cl30"
-    ],
+    "amazonPrice": 277.99,
+    "catalogPrice": 55,
     "captcha": false
   },
   {
     "id": "ram-ddr5-32-6000",
     "name": "32 GB DDR5 6000 CL30",
-    "kind": "product",
-    "asin": "B0D4NLTM6R",
-    "url": "https://www.amazon.it/dp/B0D4NLTM6R",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=32%20GB%20DDR5%206000%20CL30",
     "title": "Kit RAM Patriot Viper Venom RGB DDR5 32 GB (2x16 GB) 6000 MT/s CL30",
     "score": 1,
-    "keys": [
-      "32gb",
-      "ddr5",
-      "6000",
-      "cl30"
-    ],
+    "amazonPrice": 579.99,
+    "catalogPrice": 95,
     "captcha": false
   },
   {
     "id": "ram-ddr5-32-6400",
     "name": "32 GB DDR5 6400 CL32",
-    "kind": "product",
-    "asin": "B0FQMLKVLS",
-    "url": "https://www.amazon.it/dp/B0FQMLKVLS",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=32%20GB%20DDR5%206400%20CL32",
     "title": "Crucial Pro RAM DDR5 32GB Kit (2x16GB) 6400MHz CL32, Overclocking Gaming, Memoria per Computer, Intel XMP 3.0 / AMD EXPO, Nero - CP2K16G64C32U5B",
     "score": 1,
-    "keys": [
-      "32gb",
-      "ddr5",
-      "6400",
-      "cl32"
-    ],
+    "amazonPrice": 589.17,
+    "catalogPrice": 125,
     "captcha": false
   },
   {
     "id": "ram-ddr5-48-6400",
     "name": "48 GB DDR5 6400 CL32",
-    "kind": "product",
-    "asin": "B0FX1M9W8W",
-    "url": "https://www.amazon.it/dp/B0FX1M9W8W",
-    "title": "Patriot Viper Venom DDR5 RAM 48 GB (2 x 24 GB) 6400 MHz CL32 UDIMM Desktop Gaming Kit compatibile con Intel XMP -PVV548G640C32K",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=48%20GB%20DDR5%206400%20CL32",
+    "title": "TEAMGROUP T-Force FF3D548G6400HC32ADC01 - Modulo di memoria RAM Delta RGB DDR5 RAM 48 GB (2 x 24 GB) 6400 MHz PC5-51200 CL32 M-DIE Desktop RAM per chipset serie",
     "score": 1,
-    "keys": [
-      "48gb",
-      "ddr5",
-      "6400",
-      "cl32"
-    ],
+    "amazonPrice": 952.22,
+    "catalogPrice": 155,
     "captcha": false
   },
   {
     "id": "ram-ddr5-64-6000",
     "name": "64 GB DDR5 6000 CL30",
-    "kind": "product",
-    "asin": "B0CHSGDFN4",
-    "url": "https://www.amazon.it/dp/B0CHSGDFN4",
-    "title": "CORSAIR DOMINATOR TITANIUM RGB DDR5 64GB (2x32GB) DDR5 6000MHz CL30 AMD EXPO Intel XMP iCUE Memoria Compatibile per Computer - Grigio (CMP64GX5M2B6000Z30)",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=64%20GB%20DDR5%206000%20CL30",
+    "title": "G.SKILL Trident Z5 RGB Series DDR5 RAM (Intel XMP 3.0) 64GB (2x32GB) 6000MT/s CL30-40-40-96 1.40V Desktop Computer Memoria U-DIMM – Argento metallizzato (F5-600",
     "score": 1,
-    "keys": [
-      "64gb",
-      "ddr5",
-      "6000",
-      "cl30"
-    ],
+    "amazonPrice": 1164.91,
+    "catalogPrice": 190,
     "captcha": false
   },
   {
     "id": "ssd-500-gen4",
     "name": "SSD NVMe 500 GB Gen4",
-    "kind": "product",
-    "asin": "B0HK87PDH7",
-    "url": "https://www.amazon.it/dp/B0HK87PDH7",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=SSD%20NVMe%20500%20GB%20Gen4",
     "title": "Lexar EQ790 SSD, M.2 2280 PCIe Gen4 NVMe SSD, EQ790 500GB",
     "score": 1,
-    "keys": [
-      "500gb",
-      "gen4"
-    ],
+    "amazonPrice": 89.99,
+    "catalogPrice": 40,
     "captcha": false
   },
   {
     "id": "ssd-1tb-gen4",
     "name": "Kingston NV3 1 TB",
-    "kind": "product",
-    "asin": "B0DBR3DZWG",
-    "url": "https://www.amazon.it/dp/B0DBR3DZWG",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=Kingston%20NV3%201%20TB",
     "title": "Kingston NV3 NVMe SSD 1 TB M.2 2280 PCIe 4.0",
     "score": 1,
-    "keys": [
-      "nv3",
-      "1tb"
-    ],
+    "amazonPrice": 145.99,
+    "catalogPrice": 60,
     "captcha": false
   },
   {
@@ -876,23 +775,20 @@
     "url": "https://www.amazon.it/dp/B0B2K51BHH",
     "title": "KingSpec 1TB SSD SATA III 6Gb/s 2.5\" Unità a stato solido, 3D NAND SSD Interno, Velocità di lettura fino a 550MB/sec - Per desktop/portatili/all-in-one",
     "score": 1,
-    "keys": [
-      "1tb"
-    ],
+    "amazonPrice": 110.86,
+    "catalogPrice": 55,
     "captcha": false
   },
   {
     "id": "ssd-2tb-gen4",
     "name": "WD Black SN770 2 TB",
-    "kind": "product",
-    "asin": "B0CN17F7XC",
-    "url": "https://www.amazon.it/dp/B0CN17F7XC",
-    "title": "WD_BLACK SN770M NVMe SSD 2TB (Fino a 5.150MB/s, M.2 2230, PCIe Gen 4.0, TLC 3D NAND, Ideale per console portatili da gaming, Asus ROG Ally, Steam Deck, Microsof",
-    "score": 1,
-    "keys": [
-      "sn770",
-      "2tb"
-    ],
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=WD%20Black%20SN770%202%20TB",
+    "title": "Kingston NV3 NVMe PCIe 4.0 SSD Interno 2TB M.2 2280-SNV3S/2000G",
+    "score": 0.5,
+    "amazonPrice": 278.99,
+    "catalogPrice": 110,
     "captcha": false
   },
   {
@@ -901,151 +797,130 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Crucial%20T705%202%20TB",
-    "title": "Crucial T710 SSD 2TB PCIe 5.0 x4 Gen5 NVMe M.2, Velocità fino a 14500 MB/s Lettura, 13800 MB/s in Scrittura, Notebook e PC Desktop, TLC NAND, Hard Disk Interno ",
+    "title": "fanxiang SSD 2TB SATA III 2,5\" SSD Interno, Fino a 560 MB/s. 3D NAND, S101Q",
     "score": 0.5,
-    "keys": [
-      "t705",
-      "2tb"
-    ],
+    "amazonPrice": 208.99,
+    "catalogPrice": 190,
     "captcha": false
   },
   {
     "id": "ssd-4tb-gen4",
     "name": "Crucial P3 Plus 4 TB",
-    "kind": "product",
-    "asin": "B0F3WLFCPL",
-    "url": "https://www.amazon.it/dp/B0F3WLFCPL",
-    "title": "Crucial P310 SSD 4TB PCIe Gen4 NVMe M.2 2280, fino a 7.100 MB/s, Compatibile con Notebook, PC Desktop & Dispositivi Portatili da Gaming, Hard Disk Interno - CT4",
-    "score": 1,
-    "keys": [
-      "p3",
-      "4tb"
-    ],
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=Crucial%20P3%20Plus%204%20TB",
+    "title": "Crucial P3 Plus SSD 500GB PCIe Gen4 NVMe M.2 SSD Interno, Fino a 4.700 MB/s, Compatibile con Notebook e PC Desktop, Solid State Drive - CT500P3PSSD8",
+    "score": 0.5,
+    "amazonPrice": 217.5,
+    "catalogPrice": 220,
     "captcha": false
   },
   {
     "id": "hdd-2tb",
     "name": "HDD 2 TB 7200 rpm",
-    "kind": "product",
-    "asin": "B08VH8R94B",
-    "url": "https://www.amazon.it/dp/B08VH8R94B",
-    "title": "WD Blue 2TB per Desktop, Hard Disk Interno 3,5” - 7200 RPM, SATA 6 GB/s, Cache da 256 MB",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=HDD%202%20TB%207200%20rpm",
+    "title": "Seagate Desktop ST2000DM001, Unità disco per desktop da 6 Gbit/s e 2 TB, 7200 RPM, 64MB Cache, SATA III",
     "score": 1,
-    "keys": [
-      "2tb",
-      "7200rpm"
-    ],
+    "amazonPrice": 131,
+    "catalogPrice": 55,
     "captcha": false
   },
   {
     "id": "hdd-4tb",
     "name": "HDD 4 TB 5400 rpm",
-    "kind": "product",
-    "asin": "B0G5YDXKS7",
-    "url": "https://www.amazon.it/dp/B0G5YDXKS7",
-    "title": "WD Red Plus 4TB NAS Hard Disk Interno 3,5\" – 5400 RPM Classe, SATA 6Gb/s, CMR, 128MB Cache",
+    "kind": "search",
+    "asin": null,
+    "url": "https://www.amazon.it/s?k=HDD%204%20TB%205400%20rpm",
+    "title": "Seagate Barracuda ST4000DM004 - HDD - 4 TB - Interno - 3.5\" - SATA 6Gb/s - 5400 rpm - buffer: 256 MB",
     "score": 1,
-    "keys": [
-      "4tb",
-      "5400rpm"
-    ],
+    "amazonPrice": 189.99,
+    "catalogPrice": 85,
     "captcha": false
   },
   {
     "id": "psu-550-bronze",
     "name": "550 W 80+ Bronze",
     "kind": "product",
-    "asin": "B0DDBZP8QS",
-    "url": "https://www.amazon.it/dp/B0DDBZP8QS",
-    "title": "Alimentatore Mars Gaming MPIII550P ATX 550W, 80 Plus Bronze, Bianco",
+    "asin": "B0991W1HKT",
+    "url": "https://www.amazon.it/dp/B0991W1HKT",
+    "title": "MSI MAG A550BN Alimentatore da 550 W con Spina EU, 80 PLUS Bronze",
     "score": 1,
-    "keys": [
-      "550w",
-      "80"
-    ],
+    "amazonPrice": 60.76,
+    "catalogPrice": 50,
     "captcha": false
   },
   {
     "id": "psu-650-bronze",
     "name": "650 W 80+ Bronze",
     "kind": "product",
-    "asin": "B0F5X7QZKY",
-    "url": "https://www.amazon.it/dp/B0F5X7QZKY",
-    "title": "be quiet! System Power 11 650W Alimentatore PC, 80 PLUS® Bronze, ATX 3.1",
+    "asin": "B0BX6MTYSC",
+    "url": "https://www.amazon.it/dp/B0BX6MTYSC",
+    "title": "MSI MAG A650GLS PCIE5 Alimentatore - 650W, 80 PLUS Gold, ATX 3.1",
     "score": 1,
-    "keys": [
-      "650w",
-      "80"
-    ],
+    "amazonPrice": 69.99,
+    "catalogPrice": 65,
     "captcha": false
   },
   {
     "id": "psu-750-gold",
     "name": "750 W 80+ Gold",
     "kind": "product",
-    "asin": "B0DLJJNX81",
-    "url": "https://www.amazon.it/dp/B0DLJJNX81",
-    "title": "be quiet! Power Zone 2 750W Alimentatore PC, 80 Plus e Cybenetics Platinum",
+    "asin": "B0CC3QBGDL",
+    "url": "https://www.amazon.it/dp/B0CC3QBGDL",
+    "title": "MSI MAG A750GL PCIE5 , 750W, 80 Plus Gold, Modulare, ATX 3.0",
     "score": 1,
-    "keys": [
-      "750w",
-      "80"
-    ],
+    "amazonPrice": 87.5,
+    "catalogPrice": 95,
     "captcha": false
   },
   {
     "id": "psu-850-gold",
     "name": "850 W 80+ Gold",
     "kind": "product",
-    "asin": "B0DLHDVHKP",
-    "url": "https://www.amazon.it/dp/B0DLHDVHKP",
-    "title": "be quiet! Power Zone 2 850W Alimentatore PC, 80 Plus e Cybenetics Platinum",
+    "asin": "B0F9YW611F",
+    "url": "https://www.amazon.it/dp/B0F9YW611F",
+    "title": "be quiet! Pure Power 13 M 850W Alimentatore PC Modulare, ATX 3.1, 80+ Gold",
     "score": 1,
-    "keys": [
-      "850w",
-      "80"
-    ],
+    "amazonPrice": 125.99,
+    "catalogPrice": 125,
     "captcha": false
   },
   {
     "id": "psu-1000-gold",
     "name": "1000 W 80+ Gold",
     "kind": "product",
-    "asin": "B0CW5WR6FV",
-    "url": "https://www.amazon.it/dp/B0CW5WR6FV",
-    "title": "LC-POWER 1000W PSU - Alimentatore 1000 Watt ATX 3.0 and PCIe 5.0 per PC Gaming - Certificato 80 Plus Gold - Completamente Modulare - Ventola FDB da 120 mm Silen",
+    "asin": "B0F9YY3R57",
+    "url": "https://www.amazon.it/dp/B0F9YY3R57",
+    "title": "be quiet! Pure Power 13M 1000W Alimentatore PC Modulare, ATX 3.1, 80+ Gold",
     "score": 1,
-    "keys": [
-      "1000w",
-      "80"
-    ],
+    "amazonPrice": 145.99,
+    "catalogPrice": 160,
     "captcha": false
   },
   {
     "id": "psu-1200-plat",
     "name": "1200 W 80+ Platinum",
     "kind": "product",
-    "asin": "B0FVLSLB31",
-    "url": "https://www.amazon.it/dp/B0FVLSLB31",
-    "title": "LC-POWER LC1200P V3.1 Alimentatore PC 1200W - 80 PLUS Platinum - ATX 3.1 - PCIe 5.1 - Full Modulare - Ventola 135mm - Compatibile con GPU NVIDIA/AMD RTX Serie 5",
+    "asin": "B0GGT35KHK",
+    "url": "https://www.amazon.it/dp/B0GGT35KHK",
+    "title": "MSI MAG A1200PLS PCIE5 Alimentazione PC, 1200W, ATX, 80 Plus Platinum, ATX 3.1, Compatibile PCIe 5.1, Connettore nativo 12V-2x6 Bicolore, Cavi goffrati",
     "score": 1,
-    "keys": [
-      "1200w",
-      "80"
-    ],
+    "amazonPrice": 214.99,
+    "catalogPrice": 230,
     "captcha": false
   },
   {
     "id": "psu-750-sfx",
     "name": "750 W SFX Gold",
     "kind": "product",
-    "asin": "B0F4NBTMBB",
-    "url": "https://www.amazon.it/dp/B0F4NBTMBB",
-    "title": "GAMEMAX GS 750G SFX Alimentatore PC 750W Full Modular, 80 Plus Gold, Condensatori giapponesi di alta qualità, ventola FDB, APFC+LLC+DC-DC, 9 funzioni di protezi",
+    "asin": "B0F1V7SWDF",
+    "url": "https://www.amazon.it/dp/B0F1V7SWDF",
+    "title": "Cooler Master V750 SFX Gold ATX 3.1, spina UE - 750 W 80 PLUS Gold, Alimentatore Completamente Modulare, PSU SFF/mini-ITX, Ventola FDB Da 92mm, Cavo PCIe 5.1, S",
     "score": 1,
-    "keys": [
-      "750w"
-    ],
+    "amazonPrice": 157.41,
+    "catalogPrice": 150,
     "captcha": false
   },
   {
@@ -1054,9 +929,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Case%20mATX%20compatto",
-    "title": "ASUS PRIME AP201 CASE MESH, Case MicroATX Nero, Pannelli Laterali Mesh",
+    "title": "Phanteks XT M3, Case Gaming Compatto Micro-ATX, Filtro Mesh ad Elevate Prestazioni, Finestra in Vetro Temprato, 3 Ventole D-RGB da 120mm incluse, Nero",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 59.9,
+    "catalogPrice": 60,
     "captcha": false
   },
   {
@@ -1065,9 +941,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Case%20ATX%20base",
-    "title": "Noctua NH-U12A chromax.black, Dissipatore Single-Tower ad Alte Prestazioni",
+    "title": "EMPIRE GAMING – Case PC Gamer Darkwitcher ARGB mid-tower ATX – Pannello frontale metallo mesh e pannello laterale in vetro temperato – 4 Ventole 5 Volt PWM LED ",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 69.99,
+    "catalogPrice": 70,
     "captcha": false
   },
   {
@@ -1076,9 +953,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Case%20mATX%20mesh",
-    "title": "ASUS PRIME AP201 CASE MESH, Case MicroATX Nero, Pannelli Laterali Mesh",
+    "title": "PREYON Case PC Gaming ATX Micro Mini ITX Cooler Matx Mid Tower Airflow Full Computer Compatto Componenti Frame Microatx Cabinet View Ventole Dual Chamber Flux V",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 89,
+    "catalogPrice": 85,
     "captcha": false
   },
   {
@@ -1087,9 +965,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Case%20ATX%20airflow",
-    "title": "NZXT H7 Flow - Case PC Mid-Tower ATX Airflow - Nero",
+    "title": "H3(2026) Case PC ATX – Preinstallato con 6 ventole ARGB PWM a specchio infinito,Compatta ATX Dual Camera Mid Tower Gaming PC Case, con Type-C 3.2 (Bianco)",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 94.99,
+    "catalogPrice": 95,
     "captcha": false
   },
   {
@@ -1098,9 +977,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Case%20ATX%20mesh%20pro",
-    "title": "NZXT H7 Flow - Case PC Mid-Tower ATX Airflow - Nero",
+    "title": "H2(2026) HYXN ATX PC Case – 8 Non LED ventola preinstallata (6 x 140 mm e 2 x 120 mm), grande doppia camera ATX Mid-Tower Airflow Gaming PC, supporto radiatore ",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 99.99,
+    "catalogPrice": 140,
     "captcha": false
   },
   {
@@ -1109,9 +989,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Case%20mini-ITX",
-    "title": "Scatola Rack 2U 14″ Custodia per Server, Chassis Rackmount Rack Case per 3 x 3,5\" HDD, 1 SSD da 2,5\", Supporta Schede Madri Mini ITX e Micro ATX, Nero",
+    "title": "NZXT H2 Flow - Case PC Mini-ITX 20.7L Airflow - Nero",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 164.03,
+    "catalogPrice": 130,
     "captcha": false
   },
   {
@@ -1120,9 +1001,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Case%20showcase%20premium",
-    "title": "Vetrina Acrilica Impilabile Premium per Minifigures e Building Blocks",
+    "title": "custodia in acrilico adatto a Pokemon 151 Ultra Premium Collezione Collection UPC Teca acrylic case Plexiglass Protezione",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 49.82,
+    "catalogPrice": 190,
     "captcha": false
   },
   {
@@ -1131,9 +1013,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Dissipatore%20stock%20AMD",
-    "title": "Thermalright TR Peerless Assassin 120 Digital ARGB - Raffreddatore digitale per CPU per AM4/AM5, Intel LGA1700/1851/115X/1200, colore: Nero",
+    "title": "ARCTIC Freezer 8A - Dissipatore CPU Compatto compatibile",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 9.99,
+    "catalogPrice": 0,
     "captcha": false
   },
   {
@@ -1142,11 +1025,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=DeepCool%20AK400",
-    "title": "Thermalright TR Assassin X 120R SE PLUS - Raffreddatore CPU 4 × 6 mm Heatpipes, 120 mm PWM Quiet Fan CPU con cuscinetto S-FDB, tecnologia AGHP, per AMD AM4 AM5/",
+    "title": "ARCTIC Freezer 36 - Dissipatore CPU a torre singola",
     "score": 0,
-    "keys": [
-      "ak400"
-    ],
+    "amazonPrice": 29.49,
+    "catalogPrice": 30,
     "captcha": false
   },
   {
@@ -1155,9 +1037,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Thermalright%20Peerless%20Assassin",
-    "title": "Thermalright TR Peerless Assassin 120H-G Nero Raffreddatore CPU",
+    "title": "Thermalright-TR Peerless Assassin 120 SE ARGB Raffreddatore CPU 6 dissipatori di calore, Dual 120mm,ventola TL-C12C-S PWM,copertura dissipatore di calore in all",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 38.9,
+    "catalogPrice": 40,
     "captcha": false
   },
   {
@@ -1166,35 +1049,34 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=be%20quiet!%20Dark%20Rock%205",
-    "title": "be quiet! Pure Rock Pro 3 Black Dissipatore CPU, 6 Heatpipes, 250W TDP",
+    "title": "be quiet! Dark Rock 5 Dissipatore, 6 Hochleistungs-Heatpipes, 210W TDP",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 71.45,
+    "catalogPrice": 75,
     "captcha": false
   },
   {
     "id": "cool-nhd15",
     "name": "Noctua NH-D15",
     "kind": "product",
-    "asin": "B00Y7928CS",
-    "url": "https://www.amazon.it/dp/B00Y7928CS",
-    "title": "Noctua NH-D15S, Dissipatore Dual-Tower per CPU Silenzioso Alte Prestazioni",
+    "asin": "B00L7UZMAK",
+    "url": "https://www.amazon.it/dp/B00L7UZMAK",
+    "title": "Noctua NH-D15, Dissipatore Dual-Tower per CPU Silenzioso Alte Prestazioni",
     "score": 1,
-    "keys": [
-      "d15"
-    ],
+    "amazonPrice": 109.9,
+    "catalogPrice": 110,
     "captcha": false
   },
   {
     "id": "cool-aio240",
     "name": "AIO 240 mm",
     "kind": "product",
-    "asin": "B0F5SGK5Q7",
-    "url": "https://www.amazon.it/dp/B0F5SGK5Q7",
-    "title": "NZXT Kraken Plus 240 - Dissipatore CPU AIO 240mm, LCD - Nero",
+    "asin": "B0FNMN4BM3",
+    "url": "https://www.amazon.it/dp/B0FNMN4BM3",
+    "title": "be quiet! Pure Loop 3 240mm Raffreddamento a Liquido, AiO Watercooling",
     "score": 1,
-    "keys": [
-      "240mm"
-    ],
+    "amazonPrice": 73.9,
+    "catalogPrice": 90,
     "captcha": false
   },
   {
@@ -1205,9 +1087,8 @@
     "url": "https://www.amazon.it/dp/B0FNMP513T",
     "title": "be quiet! Pure Loop 3 280mm Raffreddamento a Liquido, AiO Watercooling",
     "score": 1,
-    "keys": [
-      "280mm"
-    ],
+    "amazonPrice": 94.91,
+    "catalogPrice": 120,
     "captcha": false
   },
   {
@@ -1218,9 +1099,8 @@
     "url": "https://www.amazon.it/dp/B0FNMQQK58",
     "title": "be quiet! Pure Loop 3 LX 360mm Raffreddamento a Liquido, AiO Watercooling",
     "score": 1,
-    "keys": [
-      "360mm"
-    ],
+    "amazonPrice": 92.9,
+    "catalogPrice": 150,
     "captcha": false
   },
   {
@@ -1231,35 +1111,32 @@
     "url": "https://www.amazon.it/dp/B0DWZX4SSK",
     "title": "be quiet! Silent Loop 3 420mm Raffreddamento a Liquido, AiO Watercooling",
     "score": 1,
-    "keys": [
-      "420mm"
-    ],
+    "amazonPrice": 139.99,
+    "catalogPrice": 200,
     "captcha": false
   },
   {
     "id": "os-win11-home",
     "name": "Windows 11 Home",
     "kind": "product",
-    "asin": "B09XGVC3J4",
-    "url": "https://www.amazon.it/dp/B09XGVC3J4",
-    "title": "Windows 11 │ Home Edition │ Codice d'attivazione per PC via email",
+    "asin": "B09HKXHHF9",
+    "url": "https://www.amazon.it/dp/B09HKXHHF9",
+    "title": "Microsoft KW9-00638, Sof MS Win 11 Home DE 64Bit",
     "score": 1,
-    "keys": [
-      "11"
-    ],
+    "amazonPrice": 126.02,
+    "catalogPrice": 120,
     "captcha": false
   },
   {
     "id": "os-win11-pro",
     "name": "Windows 11 Pro",
     "kind": "product",
-    "asin": "B09XH39NQQ",
-    "url": "https://www.amazon.it/dp/B09XH39NQQ",
-    "title": "Windows 11 │ Pro Edition │ Codice d'attivazione per PC via email",
+    "asin": "B09HKYKPZG",
+    "url": "https://www.amazon.it/dp/B09HKYKPZG",
+    "title": "Microsoft Sof MS Win 11 PRO DE 64Bit",
     "score": 1,
-    "keys": [
-      "11"
-    ],
+    "amazonPrice": 172.01,
+    "catalogPrice": 160,
     "captcha": false
   },
   {
@@ -1268,24 +1145,22 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Linux%20(gratis)",
-    "title": "Basi Di Linux Per Hacker. Networking, Scripting E Sicurezza in Kali",
+    "title": "Hacklog Volume 1 Anonimato: Manuale sulla Sicurezza Informatica e Hacking Etico",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 0,
+    "catalogPrice": 0,
     "captcha": false
   },
   {
     "id": "mon-1080-165",
     "name": "24\" 1080p 165 Hz IPS",
-    "kind": "search",
-    "asin": null,
-    "url": "https://www.amazon.it/s?k=24%22%201080p%20165%20Hz%20IPS",
-    "title": "Lenovo L24-46 Monitor 24\" 165Hz, 1 ms, IPS FHD (1920x1080), HDMI e VGA, Altoparlanti integrati, Ideale per Gaming, Studio e Home Office, VESA 100x100mm, AMD Fre",
-    "score": 0.67,
-    "keys": [
-      "24",
-      "1080p",
-      "165hz"
-    ],
+    "kind": "product",
+    "asin": "B0CC59W3HK",
+    "url": "https://www.amazon.it/dp/B0CC59W3HK",
+    "title": "MONITOR DAHUA GAMING 24' DHI-LM24-E231 165HZ IPS 1080P",
+    "score": 1,
+    "amazonPrice": 112.13,
+    "catalogPrice": 130,
     "captcha": false
   },
   {
@@ -1294,27 +1169,22 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=27%22%201440p%20180%20Hz%20IPS",
-    "title": "Philips Gaming Monitor 27M2N3500AM 27 pollici, , 2560x1440, WQHD, 180Hz, Fast VA Panel, 0.5ms MPRT, , (HDMI2x 2.0 DP 1x 1.4) Adaptive Sync, HDR10, FreeSync Prem",
-    "score": 0.67,
-    "keys": [
-      "27",
-      "1440p",
-      "180hz"
-    ],
+    "title": "AOC Gaming Monitor Q27G4XF 27 pollici 2560x1440, WQHD, 180Hz, Fast IPS Panel, 1ms GtG, Height Adjustment, (HDMI1x 2.0 DP 1x 1.4) HDR10, G-Sync Compatible, Nero",
+    "score": 0.6666666666666666,
+    "amazonPrice": 168.48,
+    "catalogPrice": 230,
     "captcha": false
   },
   {
     "id": "mon-uw-1440",
     "name": "34\" ultrawide 165 Hz",
     "kind": "product",
-    "asin": "B0BRL8B5L5",
-    "url": "https://www.amazon.it/dp/B0BRL8B5L5",
-    "title": "Samsung Monitor Gaming Odyssey G5 (C34G55), Curvo (1000R), 34\", 3440x1440 (Ultra WQHD), 21:9, HDR10, VA, 165 Hz, 1 ms, FreeSync Premium, HDMI, Display Port, PBP",
+    "asin": "B0GD69S4LJ",
+    "url": "https://www.amazon.it/dp/B0GD69S4LJ",
+    "title": "Gawfolk 34 Pollici Ultrawide Curved Gaming Monitor, 1500R Pc Screen 165hz UWQHD 3440x1440, Altezza regolabile, Schermo Computer Curvo Con Freesync E Eye Care Te",
     "score": 1,
-    "keys": [
-      "34",
-      "165hz"
-    ],
+    "amazonPrice": 284.99,
+    "catalogPrice": 450,
     "captcha": false
   },
   {
@@ -1325,11 +1195,8 @@
     "url": "https://www.amazon.it/dp/B0F4KBDGVZ",
     "title": "Z-Edge Monitor Gaming 4K da 28 pollici UHD 3840 x 2160 144 Hz, Schermo da Gioco IPS da 1 ms MPRT, 300 cd/m², FreeSync, HDR10, DP e HDMI, VESA Compatibile, Nero ",
     "score": 1,
-    "keys": [
-      "28",
-      "4k",
-      "144hz"
-    ],
+    "amazonPrice": 259.99,
+    "catalogPrice": 400,
     "captcha": false
   },
   {
@@ -1338,28 +1205,22 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=27%22%201440p%20240%20Hz%20OLED",
-    "title": "AOC Gaming Monitor Q27G4ZDRAD 27 pollici 2560x1440, WQHD, 240Hz, QD-OLED Panel, 0.03ms GtG, USB Hub Height Adjustment, (HDMI2x 2.1 DP 1x 1.4) HDR10, G-Sync Comp",
-    "score": 0.67,
-    "keys": [
-      "27",
-      "1440p",
-      "240hz"
-    ],
+    "title": "Samsung Monitor Gaming Odyssey OLED G61SH (S27HG612SU), Flat, 27'', 2560x1440 (QHD), HDR10, QD-OLED Glare Free, 240Hz, 0,03ms (GtG), AMD FreeSync Premium, HDMI,",
+    "score": 0.6666666666666666,
+    "amazonPrice": 359.9,
+    "catalogPrice": 600,
     "captcha": false
   },
   {
     "id": "mon-4k-oled",
     "name": "32\" 4K 240 Hz OLED",
     "kind": "product",
-    "asin": "B0G1MXRSZ4",
-    "url": "https://www.amazon.it/dp/B0G1MXRSZ4",
-    "title": "Gigabyte MO32U2 Monitor Gaming OLED 32” 4K UHD - 3840 x 2160, 240Hz, 0.03ms, 250 cd/m², G-Sync Compatibile, FreeSync Premium Pro, Display HDR True Black 400, HD",
+    "asin": "B0GY2VPH4V",
+    "url": "https://www.amazon.it/dp/B0GY2VPH4V",
+    "title": "MSI MPG 322UR QD-OLED X24 32\" Monitor UHD 4K (3840 × 2160), pannello QD-OLED Tandem, 240 Hz, 0,03 ms, DarkArmor Film, Uniform Luminance, AI Care Sensor, HDMI 2.",
     "score": 1,
-    "keys": [
-      "32",
-      "4k",
-      "240hz"
-    ],
+    "amazonPrice": 967.9,
+    "catalogPrice": 900,
     "captcha": false
   },
   {
@@ -1368,22 +1229,22 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Tastiera%20meccanica%20entry",
-    "title": "Tastiera Meccanica da Gaming Logitech G G413 SE Full-Size",
+    "title": "GXTrust Cada Tastiera Meccanica TKL Layout Italiano QWERTY 80% Compatta",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 32.99,
+    "catalogPrice": 35,
     "captcha": false
   },
   {
     "id": "kb-mech",
     "name": "Tastiera meccanica 75%",
     "kind": "product",
-    "asin": "B0GYNSFR56",
-    "url": "https://www.amazon.it/dp/B0GYNSFR56",
-    "title": "YUNZII RT75 PRO Tastiera Gaming Meccanica Switch Hall Effect (Bianco)",
+    "asin": "B0DPWX3WTL",
+    "url": "https://www.amazon.it/dp/B0DPWX3WTL",
+    "title": "EPOMAKER X Aula F75 MAX Tastiera Meccanica Senza Fili con Schermo TFT e Manopola, Tastiera a Gasket con Layout 75% US, Tastiera da Gioco Hot-Swap per PC/Mac/Lin",
     "score": 1,
-    "keys": [
-      "75"
-    ],
+    "amazonPrice": 84.39,
+    "catalogPrice": 80,
     "captcha": false
   },
   {
@@ -1392,9 +1253,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Tastiera%20meccanica%20premium",
-    "title": "Keychron K10 Ultra 8K Tastiera Wireless ISO-IT Layout Interruttore Marrone",
+    "title": "SteelSeries Apex Pro TKL Gen 3 Tastiera Meccanica Gaming - HyperMagnetic OmniPoint 3.0 switch - Attuazione regolabile - Innesco rapido - Tocco rapido/SOCD - OLE",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 149.99,
+    "catalogPrice": 150,
     "captcha": false
   },
   {
@@ -1403,9 +1265,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Mouse%20gaming%20entry",
-    "title": "RedThunder K10 Set di Poggiapolsi in Pelle 3-in-1, Retroilluminazione Dinamica RGB + Sensazione Meccanica, Tasti Anti Ghosting + Mouse 7D 7200DPI, Layout IT,Gio",
+    "title": "Logitech G G203 LIGHTSYNC Mouse Gaming con Illuminazione RGB - Nero",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 19.49,
+    "catalogPrice": 20,
     "captcha": false
   },
   {
@@ -1414,9 +1277,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Mouse%20gaming%20wireless",
-    "title": "Keychron Mouse Wireless programmabile M3 2.4GHz/Bluetooth 5.1/USB C 26000 DPI, sensore PAW3395, LED RGB, durata della batteria 70 g, mouse da gioco per PC, Mac ",
+    "title": "Razer Basilisk V3 X HyperSpeed - Mouse wireless da gaming personalizzabile (9 comandi personalizzabili, HyperSpeed Wireless e BT, Sensore ottico avanzato 5G da ",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 49.57,
+    "catalogPrice": 50,
     "captcha": false
   },
   {
@@ -1427,7 +1291,8 @@
     "url": "https://www.amazon.it/s?k=Mouse%20gaming%20pro",
     "title": "GravaStar Mercury X Pro Mouse Gaming Wireless 8K Ultraleggero 49g",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 119.96,
+    "catalogPrice": 90,
     "captcha": false
   },
   {
@@ -1436,9 +1301,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Cuffie%20gaming%20entry",
-    "title": "Linsoul KZ ZS10 Pro,In Ear Monitor con 4BA+1DD 5 Driver,Cuffie Cablate Hifi",
+    "title": "JBL Quantum 100M2, Cuffie Gaming Over Ear con Filo, Nero",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 29.49,
+    "catalogPrice": 30,
     "captcha": false
   },
   {
@@ -1447,9 +1313,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Cuffie%20gaming%20wireless",
-    "title": "SteelSeries Arctis Nova 3P - Cuffie da gioco multipiattaforma wireless - Controllo via app - Batteria 40h - Driver magnetici al neodimio - 2,4GHz/BT - Mic stacc",
+    "title": "Logitech G733 LIGHTSPEED Cuffia wireless con microfono gaming",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 74.99,
+    "catalogPrice": 70,
     "captcha": false
   },
   {
@@ -1458,22 +1325,22 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Cuffie%20gaming%20premium",
-    "title": "Sony WH-1000XM5 Premium Cuffie bluetooth con Cancellazione Rumore",
+    "title": "beyerdynamic MMX 130 wireless Cuffie Gaming Aperte, Nero",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 129,
+    "catalogPrice": 150,
     "captcha": false
   },
   {
     "id": "fans-3",
     "name": "Kit 3 ventole 120 mm",
     "kind": "product",
-    "asin": "B0F99921SL",
-    "url": "https://www.amazon.it/dp/B0F99921SL",
-    "title": "AsiaHorse COSMIQ Lot de 3 ventole per boîtier ARGB PC da 120 mm con controller, design a specchio infinito, cuscinetto FDB 2000 giri/min flusso d'aria ad alta p",
+    "asin": "B0FND9PZPT",
+    "url": "https://www.amazon.it/dp/B0FND9PZPT",
+    "title": "TR-Thermalright TL-M12QR X3 Confezione da 3 Ventole PWM per CPU da 120mm - Giunzione Wireless, Raffreddamento Silenzioso a 1500RPM, Ventole per CPU Inverse",
     "score": 1,
-    "keys": [
-      "120mm"
-    ],
+    "amazonPrice": 24.99,
+    "catalogPrice": 25,
     "captcha": false
   },
   {
@@ -1482,9 +1349,10 @@
     "kind": "search",
     "asin": null,
     "url": "https://www.amazon.it/s?k=Kit%203%20ventole%20premium",
-    "title": "ARCTIC P12 Pro Reverse – 3 Pack – 120 mm Ventola Premium con flusso d’aria inverso, Ventole PWM con splitter per cavo a Y, 500-3000 rpm, 0 rpm <5% PWM, cuscinet",
+    "title": "NZXT F120 RGB Triple Pack - 3x Ventole RGB PWM 120mm + Hub - Nero",
     "score": 0,
-    "keys": [],
+    "amazonPrice": 84.28,
+    "catalogPrice": 60,
     "captcha": false
   }
 ]

@@ -10,6 +10,20 @@ createServer((req, res) => {
     res.end(readFileSync(PARTS));
     return;
   }
+  if (req.method === 'GET' && req.url === '/partswithprice') {
+    const src = readFileSync(new URL('./assets/data.js', import.meta.url), 'utf8');
+    const out = [];
+    const re = /\{\s*id:\s*'([^']+)'\s*,[^}]*?price:\s*(\d+)/gs;
+    let m;
+    while ((m = re.exec(src)) !== null) out.push({ id: m[1], price: Number(m[2]) });
+    // aggiungi i nomi da parts-list
+    const names = JSON.parse(readFileSync(PARTS, 'utf8'));
+    const byId = new Map(names.map(x => [x.id, x.name]));
+    out.forEach(x => x.name = byId.get(x.id) || x.id);
+    res.writeHead(200, { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' });
+    res.end(JSON.stringify(out));
+    return;
+  }
   if (req.method === 'GET' && req.url === '/links') {
     res.writeHead(200, { 'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*' });
     res.end(readFileSync(new URL('./amazon-links.json', import.meta.url)));
